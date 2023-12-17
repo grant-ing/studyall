@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"519cceb5c2383ad7","type":"text","text":"# HOW TO DESIGN PROGRAMS\n###### An Introduction To Programming And Computing.\n\n","x":-171,"y":-164,"width":531,"height":124},
+		{"id":"920ae562790174a8","type":"text","text":"[[course/scm/_rkt/how-to-design-programs/_notes|_notes]]","x":-120,"y":-40,"width":440,"height":80},
+		{"id":"965ad635a78c79e8","type":"text","text":"#","x":420,"y":200,"width":250,"height":150}
+	],
+	"edges":[
+		{"id":"7c626bd219f32c70","fromNode":"920ae562790174a8","fromSide":"bottom","toNode":"965ad635a78c79e8","toSide":"top"},
+		{"id":"adacea9d26018ea1","fromNode":"920ae562790174a8","fromSide":"right","toNode":"965ad635a78c79e8","toSide":"top"},
+		{"id":"981b60ee7b868645","fromNode":"965ad635a78c79e8","fromSide":"left","toNode":"920ae562790174a8","toSide":"bottom"}
+	]
+}

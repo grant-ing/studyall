@@ -1,0 +1,7 @@
+{
+  "titleTemplate": "(STUDY '(ALL)) :: OBSIDIAN",
+  "titleTemplateEmpty": "(STUDY '(ALL)) :: OBSIDIAN",
+  "titleSeparator": " - ",
+  "delimStr": "~~",
+  "overrideYamlField": "title"
+}
