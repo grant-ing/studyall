@@ -1,4 +1,4 @@
-# STUDYHALL
+# (STUDY'(ALL))
 ## Public Notes / KnowledgeBase For Study-Notes.
 
 1. You'll need [Obsidian](https://obsidian.md/).
